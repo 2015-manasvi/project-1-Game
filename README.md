@@ -1,7 +1,9 @@
 # 1.PROJECT NAME:
+
 Memory Game(matching Game)
 
-# 2.TECHNOLOGY USED:  
+# 2.TECHNOLOGY USED:
+
 ----->HTML(img,audio)
 ----->CSS(Grid)
 ----->JAVASCRIPT(DOM).
@@ -17,6 +19,7 @@ INBUILD FUNCTION:
 -setInterval
 
 # 3.HOW IT WORKS:
+
 The game board consists of sixteen cards arranged randomly in a grid.The cell is made up of eight different pairs of cards.Each with different animal face on one side.
 
         Each Turn:
@@ -29,11 +32,14 @@ The game board consists of sixteen cards arranged randomly in a grid.The cell is
         The game ends once all cards have been correctly matched.
 
 # 4.WHAT I LEARNT:
+
 In this Memory Game presents first opportunity to fully combine HTML,CSS,Javascript into a large project.
 
 # 5.CHALLENGES:
+
 Take less time with less move.
 
 # 6.FUTURE IMPROVEMENT:
+
 When game start, reveal images for 2 seconds then all images goes to hidden state.Its help player can finish the game with less time &
 less move
