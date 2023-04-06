@@ -68,7 +68,7 @@ const RandomCalculator = (size = 4) => {
 //4.getting images into cell
 const matrixGenerator = (cardValues, size = 4) => {
   gameContainer.innerHTML = "";
-  cardValues = [...cardValues, ...cardValues]; //array length=16
+  cardValues = [...cardValues, ...cardValues]; //array length=14
   //a.sort(() => Math.random() - 0.5)
   //either negative or positive it will cause a random order
   cardValues.sort(() => Math.random() - 0.5);
